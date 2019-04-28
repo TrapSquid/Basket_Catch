@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(954,5): warning MSB8027: Two or more files with the name of functions.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Source\functions.cpp, Source\RandomCodeFiles\functions.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(954,5): warning MSB8027: Two or more files with the name of RandomNumberGenerator.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Source\RandomCodeFiles\RandomNumberGenerator.cpp, Source\RandomNumberGenerator.cpp.
+  WinMain.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\WinMain.cpp(185): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Camera.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Camera.cpp(47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Collectibles.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Collectibles.cpp(41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  functions.cpp
+  Game.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Game.cpp(92): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Game.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  GLExtensions.cpp
+  LevelTile.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\LevelTile.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyMatrix.cpp
+  Vector.cpp
+  NumberSystem.cpp
+  Player.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Player.cpp(41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\Player.cpp(46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  functions.cpp
+  RandomNumberGenerator.cpp
+  RandomNumberGenerator.cpp
+  RandomShapes.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\Source\RandomShapes.cpp(24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Shapes.cpp
+  Target.cpp
+  Helpers.cpp
+  ShaderProgram.cpp
+  Generating Code...
+  lodepng.cpp
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\\Output\Int\Debug\functions.obj : warning LNK4042: object specified more than once; extras ignored
+E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\\Output\Int\Debug\RandomNumberGenerator.obj : warning LNK4042: object specified more than once; extras ignored
+  GAM1542GLProject.vcxproj -> E:\SchoolJunk\GAM1546_15F_GameComp2\FinalProject\\Output\Debug\GAM1542GLProject.exe
